@@ -1,0 +1,7 @@
+[1114/145210.885:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[1114/165006.214:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 1 time(s)
+[1114/165006.476:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 2 time(s)
+[1114/165006.626:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 3 time(s)
+[1114/165006.930:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 4 time(s)
+[1114/165007.243:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 5 time(s)
+[1114/165007.581:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 6 time(s)
