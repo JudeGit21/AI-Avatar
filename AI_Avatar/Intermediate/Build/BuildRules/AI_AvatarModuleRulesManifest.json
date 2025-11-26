@@ -1,0 +1,12 @@
+{
+	"SourceFiles": [
+		"C:\\GitHub\\Unity\\CameraTrack\\AI-Avatar\\AI_Avatar\\Plugins\\glTFRuntime-master\\Source\\glTFRuntimeEditor\\glTFRuntimeEditor.Build.cs",
+		"C:\\GitHub\\Unity\\CameraTrack\\AI-Avatar\\AI_Avatar\\Plugins\\glTFRuntime-master\\Source\\glTFRuntime\\glTFRuntime.Build.cs",
+		"C:\\GitHub\\Unity\\CameraTrack\\AI-Avatar\\AI_Avatar\\Intermediate\\Source\\AI_Avatar.Build.cs",
+		"C:\\GitHub\\Unity\\CameraTrack\\AI-Avatar\\AI_Avatar\\Intermediate\\Source\\AI_Avatar.Target.cs",
+		"C:\\GitHub\\Unity\\CameraTrack\\AI-Avatar\\AI_Avatar\\Intermediate\\Source\\AI_AvatarClient.Target.cs",
+		"C:\\GitHub\\Unity\\CameraTrack\\AI-Avatar\\AI_Avatar\\Intermediate\\Source\\AI_AvatarEditor.Target.cs",
+		"C:\\GitHub\\Unity\\CameraTrack\\AI-Avatar\\AI_Avatar\\Intermediate\\Source\\AI_AvatarServer.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}

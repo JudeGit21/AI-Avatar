@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-AI_Avatar.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/GitHub/Unity/CameraTrack/AI-Avatar/AI_Avatar/Intermediate/Build/Win64/x64/AI_AvatarEditor/Development/Core/SharedPCH.Core.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/GitHub/Unity/CameraTrack/AI-Avatar/AI_Avatar/Intermediate/Build/Win64/x64/UnrealEditor/Development/AI_Avatar/AI_Avatar.cpp.obj"
+"C:/GitHub/Unity/CameraTrack/AI-Avatar/AI_Avatar/Intermediate/Build/Win64/x64/UnrealEditor/Development/AI_Avatar/PerModuleInline.gen.cpp.obj"
+"C:/GitHub/Unity/CameraTrack/AI-Avatar/AI_Avatar/Intermediate/Build/Win64/x64/UnrealEditor/Development/AI_Avatar/Default.rc2.res"
+/OUT:"C:/GitHub/Unity/CameraTrack/AI-Avatar/AI_Avatar/Intermediate/Build/Win64/x64/UnrealEditor/Development/AI_Avatar/UnrealEditor-AI_Avatar.lib"
